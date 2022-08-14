@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jadesolayo/testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://testimonial-grid-by-jade.netlify.app/)
+- Solution URL: (https://github.com/jadesolayo/testimonials-grid-section-main)
+- Live Site URL: [(https://testimonial-grid-by-jade.netlify.app/)
 
 ## My process
 
@@ -47,7 +47,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -62,15 +61,15 @@ I'd love to continue using css grid to create responsive websites and also worki
 
 ### Useful resources
 
-- [Example resource 1](https://youtu.be/rg7Fvvl3taU) - TThis video helped understand how grids work and it also gave me better understanding of the project.
+- (https://youtu.be/rg7Fvvl3taU) - TThis video helped understand how grids work and it also gave me better understanding of the project.
 
 
 
 ## Author
 
-- Website - [Add your name here](https://testimonial-grid-by-jade.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jadesolayo)
-- Twitter - [@yourusername](https://www.twitter.com/jade_babyyyyy)
+- Website - (https://testimonial-grid-by-jade.netlify.app/)
+- Frontend Mentor - [@jadesolayo](https://www.frontendmentor.io/profile/jadesolayo)
+- Twitter - [@jade_babyyyyy](https://www.twitter.com/jade_babyyyyy)
 
 
 ## Acknowledgments
