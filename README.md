@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/jadesolayo/testimonials-grid-section-main)
-- Live Site URL: [(https://testimonial-grid-by-jade.netlify.app/)
+- Solution URL:[Github] (https://github.com/jadesolayo/testimonials-grid-section-main)
+- Live Site URL:[Netlify] (https://testimonial-grid-by-jade.netlify.app/)
 
 ## My process
 
@@ -61,13 +61,13 @@ I'd love to continue using css grid to create responsive websites and also worki
 
 ### Useful resources
 
-- (https://youtu.be/rg7Fvvl3taU) - TThis video helped understand how grids work and it also gave me better understanding of the project.
+- (https://youtu.be/rg7Fvvl3taU) - This video helped understand how grids work and it also gave me better understanding of the project.
 
 
 
 ## Author
 
-- Website - (https://testimonial-grid-by-jade.netlify.app/)
+- Website - [Netlify](https://testimonial-grid-by-jade.netlify.app/)
 - Frontend Mentor - [@jadesolayo](https://www.frontendmentor.io/profile/jadesolayo)
 - Twitter - [@jade_babyyyyy](https://www.twitter.com/jade_babyyyyy)
 
